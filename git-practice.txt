@@ -1,0 +1,11 @@
+Hello, this is a test file. 123 ABC, Testing testing 123. 
+
+This line of text represents a release of our code at version 1.0.0.
+
+<<<<<<< HEAD
+Fixed an issue about not being able to see grades.
+=======
+Started working on new feature. It is very cool.
+
+Finished new feature.
+>>>>>>> new-feature
