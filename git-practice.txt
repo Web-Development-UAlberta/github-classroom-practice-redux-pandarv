@@ -1,1 +1,3 @@
 Hello, this is a test file. 123 ABC, Testing testing 123. 
+
+This line of text represents a release of our code at version 1.0.0.
